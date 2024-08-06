@@ -24,7 +24,7 @@ const vRainbow = {
 </template>
 
 <script>
-// Karışımları içe aktar
+// Karışımları içe aktar.
 import mixins from '../mixins'
 
 export default {
