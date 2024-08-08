@@ -14,7 +14,7 @@ app.config.globalProperties.$filters = {
     }
 }
 
-// Vue Router'ı uygulamaya ekleyin
+// Vue Router'ı uygulamaya ekleyin.
 app.use(router);
 
 // Vue uygulamasını belirtilen HTML elemanına bağlayın
