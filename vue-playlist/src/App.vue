@@ -15,7 +15,7 @@ import ListBlogs from './components/list-blogs.vue'
 import Header from './components/header.vue'
 
 export default {
-  // Bileşenleri tanımlar
+  // Bileşenleri tanımlar.
   components: {
     "add-blog": AddBlog,
     "show-blogs": ShowBlogs,
