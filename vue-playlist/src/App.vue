@@ -16,6 +16,7 @@ import Header from './components/header.vue'
 
 export default {
   // Bileşenleri tanımlar.
+  // export default ifadesi bileşeni dışa aktarır, yani başka bir sayfada import ederek kullanmamaızı sağlar
   components: {
     "add-blog": AddBlog,
     "show-blogs": ShowBlogs,
